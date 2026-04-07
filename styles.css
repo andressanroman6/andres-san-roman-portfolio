@@ -404,6 +404,14 @@ img {
   margin: 0 auto;
 }
 
+.about__link h3{
+  text-align: center;
+  font-family: var(--font-sans);
+  font-weight: 300;
+  font-size: 1.8rem;
+}
+}
+
 .about__link {
   font-size: 1rem;
   color: var(--text);
