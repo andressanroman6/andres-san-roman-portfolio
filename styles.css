@@ -16,6 +16,7 @@
   --accent: #c9b99a;
   --font-serif: 'Lora', serif;
   --font-sans: 'Inter', sans-serif;
+    scroll-pading-top: 50px;
 }
 
 html {
