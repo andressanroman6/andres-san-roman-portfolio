@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  scroll-pading-top: 50px;
+  scroll-padding-top: 50px;
 }
 
 :root {
@@ -16,7 +16,6 @@
   --accent: #c9b99a;
   --font-serif: 'Lora', serif;
   --font-sans: 'Inter', sans-serif;
-    scroll-pading-top: 50px;
 }
 
 html {
@@ -410,6 +409,7 @@ img {
   font-family: var(--font-sans);
   font-weight: 300;
   font-size: 1.8rem;
+  margin-bottom: 12px;
 }
 }
 
