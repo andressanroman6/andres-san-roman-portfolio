@@ -404,7 +404,7 @@ img {
   margin: 0 auto;
 }
 
-.about__link h3{
+.contact__container h3{
   text-align: center;
   font-family: var(--font-sans);
   font-weight: 300;
